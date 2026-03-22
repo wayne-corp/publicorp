@@ -1,6 +1,6 @@
 print ("bbb")
 
-# exaple:
+# exaple!:
 
 # MEMORANDUM
 
